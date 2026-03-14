@@ -208,7 +208,7 @@ By replacing foreign LLM dependency with **Sarvam AI**, GOD VIEW ensures that In
 |---|---|
 | Full-Stack Architecture & 3D Engine | SWAGAT SWARUP SAHU (TEAM LEADER) |
 | AI / Ontology Graph Design | SHUBHAM MOHAPATRA |
-| Backend Data Ingestion | SOUMYA RANJAN SAHOO|
+| Backend Data Ingestion | SOMYA RANJAN SAHOO|
 | UI/UX & Shader Design | Team ASTRA-X |
 
 ---
@@ -226,4 +226,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 *"See everything. Understand the connections. Act before the event."*
 
 </div>
+
 
